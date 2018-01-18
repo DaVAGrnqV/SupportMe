@@ -26,14 +26,14 @@ The application is also available as a Beta version from the [Google play store]
 Further documentation about the project will be updated shortly. At the moment documentation can be supplied at request by the developers of the project.
 
 ## The Developers
-Albin Falk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/DaVAGrnqV/SupportMe/blob/master/GitHub-Mark-32px.png)](https://github.com/albinfalk)
+Albin Falk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/dgrnqv/SupportMe/blob/master/GitHub-Mark-32px.png)](https://github.com/albinfalk)
 
-Daniel Posch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/DaVAGrnqV/SupportMe/blob/master/GitHub-Mark-32px.png)](https://github.com/danniwezz)
+Daniel Posch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/dgrnqv/SupportMe/blob/master/GitHub-Mark-32px.png)](https://github.com/danniwezz)
 
-Anton Hurtig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/DaVAGrnqV/SupportMe/blob/master/GitHub-Mark-32px.png)](https://github.com/antmmos)
+Anton Hurtig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/dgrnqv/SupportMe/blob/master/GitHub-Mark-32px.png)](https://github.com/antmmos)
 
-Betim Raqi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/DaVAGrnqV/SupportMe/blob/master/GitHub-Mark-32px.png)](https://github.com/betimr)
+Betim Raqi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/dgrnqv/SupportMe/blob/master/GitHub-Mark-32px.png)](https://github.com/betimr)
 
-Jesper Rask&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/DaVAGrnqV/SupportMe/blob/master/GitHub-Mark-32px.png)](https://github.com/Jesperrask)
+Jesper Rask&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://github.com/dgrnqv/SupportMe/blob/master/GitHub-Mark-32px.png)](https://github.com/Jesperrask)
 
-David Granqvist [![](https://github.com/DaVAGrnqV/SupportMe/blob/master/GitHub-Mark-32px.png)](https://github.com/DaVAGrnqV)
+David Granqvist [![](https://github.com/dgrnqv/SupportMe/blob/master/GitHub-Mark-32px.png)](https://github.com/dgrnqv)
